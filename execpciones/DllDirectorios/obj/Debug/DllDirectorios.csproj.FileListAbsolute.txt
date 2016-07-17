@@ -1,0 +1,4 @@
+C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\execpciones\DllDirectorios\bin\Debug\DllDirectorios.pdb
+C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\execpciones\DllDirectorios\obj\Debug\DllDirectorios.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\execpciones\DllDirectorios\obj\Debug\DllDirectorios.dll
+C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\execpciones\DllDirectorios\obj\Debug\DllDirectorios.pdb
