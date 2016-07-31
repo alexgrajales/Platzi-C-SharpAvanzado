@@ -1,0 +1,34 @@
+﻿@*@model EmotionPlatziWeb.Models.Home
+
+@{
+    ViewBag.Title = "IndexAlt";
+}
+
+<h2>@Model.WelcomeMessage</h2>
+<h3>@Model.FooterMessage</h3>*@
+
+@model EmotionPlatziWeb.Models.Home
+
+@{
+    Layout = "~/views/shared/_MyLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Vista sin layouts</title>
+</head>
+<body>
+    <div>
+        <h2>@Model.WelcomeMessage</h2>
+        <h3>@Model.FooterMessage</h3>
+    </div>
+    @section scripts{
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        }
+
+</body>
+</html>

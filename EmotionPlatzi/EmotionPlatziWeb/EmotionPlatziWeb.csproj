@@ -192,6 +192,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -203,7 +204,9 @@
     <Compile Include="Models\EmoPicture.cs" />
     <Compile Include="Controllers\EmoPicturesController.cs" />
     <Compile Include="Models\EmotionPlatziWebContext.cs" />
+    <Compile Include="Models\Home.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\EmotionHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
@@ -219,6 +222,10 @@
     <Content Include="Views\EmoPictures\Edit.cshtml" />
     <Content Include="Views\EmoPictures\Index.cshtml" />
     <Content Include="scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\IndexAlt.cshtml" />
+    <Content Include="Views\Home\indexAltDos.cshtml" />
+    <Content Include="Views\Shared\_MyLayout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -228,6 +235,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

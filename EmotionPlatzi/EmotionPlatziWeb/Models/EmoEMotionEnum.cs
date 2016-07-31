@@ -8,6 +8,7 @@
         Happiness,
         Neutral,
         Sadness,
-        Suprise
+        Suprise,
+        UNdetermined
     }
 }

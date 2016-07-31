@@ -65,10 +65,10 @@ C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\bin\es\System.Web.Http.resources.dll
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\bin\es\System.Web.Http.WebHost.resources.dll
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\obj\Debug\EmotionPlatziWeb.csproj.App.config
-C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\obj\Debug\EmotionPlatziWeb.csprojResolveAssemblyReference.cache
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\obj\Debug\EmotionPlatziWeb.dll
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\obj\Debug\EmotionPlatziWeb.pdb
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\bin\EntityFramework.dll
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\bin\EntityFramework.SqlServer.dll
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\bin\EntityFramework.xml
 C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ALEXANDER\Documents\Visual Studio 2015\Projects\C sharp curso avanzado\EmotionPlatzi\EmotionPlatziWeb\obj\Debug\EmotionPlatziWeb.csprojResolveAssemblyReference.cache

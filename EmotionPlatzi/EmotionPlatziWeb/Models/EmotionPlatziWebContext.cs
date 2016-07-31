@@ -24,5 +24,7 @@ namespace EmotionPlatziWeb.Models
         public System.Data.Entity.DbSet<EmotionPlatziWeb.Models.EmoFace> EmoFaces { get; set; }
 
         public System.Data.Entity.DbSet<EmotionPlatziWeb.Models.EmoEmotion> EmoEmotions { get; set; }
+
+        public System.Data.Entity.DbSet<EmotionPlatziWeb.Models.Home> Homes { get; set; }
     }
 }
